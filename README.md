@@ -1,2 +1,1 @@
-# tindog
-TinDog First Attempt
+TinDog Starting Files
